@@ -1,0 +1,23 @@
+
+
+    body{
+      background-color: #FFE7BF
+    }
+    h1{
+      color: #1F4690;
+    }
+    h3 {
+      color: #1F4690;
+    }
+    hr {
+
+      border-style: none;
+      border-top-style: dotted;
+      border-color: #293462;
+      border-width: 6px;
+      width: 85%;
+
+    }
+    href {
+      color: #377D71;
+    }
